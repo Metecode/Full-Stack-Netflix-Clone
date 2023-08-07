@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is a full-stack application where users can sign up and log in using their email or through Google and GitHub authentication methods. The project utilizes demo videos. Users have the ability to view the genre and synopsis of a movie and then watch the movie.
+This project is a full-stack application where users can sign up and log in using their email or through Google and GitHub authentication methods. The project utilizes demo videos. Users have the ability to view the genre and synopsis of a movie and then watch the movie. Thank you very much for the tutorial video; it has been a valuable reference for me. I appreciate your contributions. https://www.youtube.com/watch?v=mqUN4N2q4qY&t=4s
 
 ![image](https://github.com/Metecode/next-netflix/assets/71905780/f363eedf-3374-41ae-9570-9d63a7d760fd)
 <br/>
